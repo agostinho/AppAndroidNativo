@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "233807691547",
+    "firebase_url": "https://androidnativo1.firebaseio.com",
+    "project_id": "androidnativo1",
+    "storage_bucket": "androidnativo1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233807691547:android:6cd71ceafaefc4312a9dbe",
+        "android_client_info": {
+          "package_name": "com.agostinhojr.appandroidnativo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233807691547-di8oumo1g7q00rlp8ma5ovgk1ligrg91.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agostinhojr.appandroidnativo",
+            "certificate_hash": "86a9736e7fb61427c5675eb8aaa7974b9fc811b8"
+          }
+        },
+        {
+          "client_id": "233807691547-8eqvag9tmm3gu3nso3285mn416jo2775.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqUbvact6TE6_TdJCRfzp6SU_1B-CylD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233807691547-8eqvag9tmm3gu3nso3285mn416jo2775.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
